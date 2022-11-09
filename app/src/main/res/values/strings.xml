@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">X-Food</string>
+    <string name="menu">Menu</string>
+    <string name="compras">compras</string>
+    <string name="despensa">despensa</string>
+    <string name="ventas">ventas</string>
+    <string name="Volver">Volver</string>
+    <string name="Comida">Comida</string>
+    <string name="Bebida">Bebida</string>
+
+</resources>

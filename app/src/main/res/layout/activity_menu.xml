@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Menu">
+
+    <Button
+        android:id="@+id/Comida"
+        android:layout_width="409dp"
+        android:layout_height="59dp"
+        android:onClick="Siguiente"
+        android:text="@string/Comida"
+        app:layout_constraintTop_toBottomOf="@+id/Bebidas"
+        tools:layout_editor_absoluteX="2dp"
+        tools:text="Comida" />
+
+    <Button
+        android:id="@+id/Volver"
+        android:layout_width="413dp"
+        android:layout_height="60dp"
+        android:onClick="Anterior"
+        android:text="@string/Volver"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="4dp" />
+
+    <Button
+        android:id="@+id/Bebidas"
+        android:layout_width="415dp"
+        android:layout_height="54dp"
+        android:text="Bebidas"
+        app:layout_constraintTop_toBottomOf="@+id/Volver"
+        tools:layout_editor_absoluteX="-2dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
