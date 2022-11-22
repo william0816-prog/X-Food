@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">X-Food1</string>
+    <string name="Menu">Menu</string>
+    <string name="Ventas">Ventas</string>
+    <string name="Despensa">Despensa</string>
+    <string name="Compras">Compras</string>
+    <string name="Volver">Volver</string>
+    <string name="Hamburguesa">Hamburguesa</string>
+    <string name="Perros">Perros</string>
+    <string name="Picadas">Picadas</string>
+    <string name="Desgranado">Desgranado</string>
+    <string name="Asados">Asados</string>
+    <string name="Bebidas">Bebidas</string>
+    <string name="Confirmar">Confirmar pedido</string>
+    <string name="Napolitana">Napolitana</string>
+    <string name="Americana">Americana</string>
+    <string name="Ribereña">Ribereña</string>
+    <string name="Texana">Texana</string>
+    <string name="DobleC">Doble de la casa</string>
+    <string name="Doblex">Doble X-Food</string>
+    <string name="Mixta">Mixta</string>
+    <string name="CallejeraS">Callejera Sencilla</string>
+    <string name="CallejeraD">Callejera Doble</string>
+    <string name="Callejerat">Callejera Triple</string>
+    <string name="Agregar">Agregar al carrito</string>
+</resources>
